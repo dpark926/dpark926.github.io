@@ -582,6 +582,10 @@
 		/*border: 1px solid red;*/
 	}
 
+	.icon2 {
+		padding-left: 10px;
+	}
+
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -1234,7 +1238,10 @@
 		}
 
 			#header .logo .icon:before {
-				font-size: 2rem;
+				font-size: 3rem;
+				/*border: 1px solid yellow;*/
+				vertical-align: bottom;
+				padding-bottom: .2em;
 			}
 
 		#header .content {
