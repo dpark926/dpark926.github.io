@@ -1238,10 +1238,10 @@
 		}
 
 			#header .logo .icon:before {
-				font-size: 3rem;
+				font-size: 2.5rem;
 				/*border: 1px solid yellow;*/
 				vertical-align: bottom;
-				padding-bottom: .2em;
+				padding-bottom: .4em;
 			}
 
 		#header .content {
