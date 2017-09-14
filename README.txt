@@ -1,8 +1,8 @@
 DANIEL PARK
 
 dpeace926@gmail.com
-[GitHub: dpark926](https://github.com/dpark926)
-[Medium: @dpark] (https://medium.com/@dpark)
+[GitHub: dpark926]      (https://github.com/dpark926)
+[Medium: @dpark]        (https://medium.com/@dpark)
 [LinkedIn: Daniel Park] (https://www.linkedin.com/in/devdanielpark/)
 
 Full stack web developer with a keen interest in solving difficult problems, and experience in JavaScript, Ruby
@@ -11,6 +11,15 @@ and planning helps me and creative solutions through code for any company.
 
 
 [TECHNICAL PROJECTS]
+
+MTA eTix
+- Applied CRUD features with React’s virtual-DOM to render and update fetched data from custom built API endpoints
+- Built custom Rails APIs to handle fetch requests for a fast single page application experience with no refreshes
+
+Personal Dashboard
+Alarm, Weather, Clock, Pomodoro, StopWatch
+- Applied CRUD features with React’s virtual-DOM to render and update fetched data from custom built API endpoints
+- Built custom Rails APIs to handle fetch requests for a fast single page application experience with no refreshes
 
 Meal Buddy
 An app that allows users to add recipes to a meal planner and creates shopping lists
