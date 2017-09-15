@@ -12,20 +12,23 @@ and planning helps me and creative solutions through code for any company.
 
 [TECHNICAL PROJECTS]
 
-MTA eTix
-- Applied CRUD features with React’s virtual-DOM to render and update fetched data from custom built API endpoints
-- Built custom Rails APIs to handle fetch requests for a fast single page application experience with no refreshes
+My Momentum
+A personal dashboard featuring an alarm, weather, pomodoro and stopwatch
+ - Applied CRUD features with React’s virtual-DOM to render and update fetched data from custom built API endpoints.
+ - External APIs include OpenWeatherMap and Google Maps Geocoding to retrieve weather data and city names
+ - All clocks and timers are built from scratch with algorithms that updates the state’s second using setInterval
 
-Personal Dashboard
-Alarm, Weather, Clock, Pomodoro, StopWatch
-- Applied CRUD features with React’s virtual-DOM to render and update fetched data from custom built API endpoints
-- Built custom Rails APIs to handle fetch requests for a fast single page application experience with no refreshes
+MTA eTix
+Inspired by the MTA LIRR train ticketing app
+ - Built with React’s virtual-DOM to render components with animated features
+ - Used setInterval and new Date() to render the current time and date by updating the state in every second
+ - Implemented animations using CSS keyframes and Animate CSS
+ - Injected React inline styles to generate random rgba colors
 
 Meal Buddy
 An app that allows users to add recipes to a meal planner and creates shopping lists
- - Applied CRUD features with React’s virtual-DOM to render and update fetched data from custom built API endpoints
+ - Built using React.js as front-end and Ruby on Rails as back-end
  - Built custom Rails APIs to handle fetch requests for a fast single page application experience with no refreshes
- - Used Vanilla CSS to design a responsive front end
  - Utilized JWT to create access tokens
 
 Piano Roll
