@@ -667,9 +667,13 @@
 			width: 100%;
 		}
 
-			.image.main img {
-				width: 100%;
-			}
+		.image.main img {
+			width: 100%;
+		}
+
+		.image_mobile {
+			width: 50%;
+		}
 
 		@media screen and (max-width: 736px) {
 
